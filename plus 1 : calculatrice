@@ -22,3 +22,4 @@ elif c == "diviser":
 
 else:
     print("inconue")
+#il ma fallu pas mal d essai pour arriver la ;)

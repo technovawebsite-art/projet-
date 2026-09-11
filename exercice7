@@ -1,0 +1,4 @@
+a = int(input("Entrez le premier   "))
+b = int(input("Entrez le deuxième  "))
+c = a + b
+print(f"resultat = ",c)

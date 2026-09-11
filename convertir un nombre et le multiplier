@@ -1,0 +1,3 @@
+nombre = int("123")
+result = nombre*2
+print(result)

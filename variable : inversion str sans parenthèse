@@ -1,0 +1,5 @@
+verre1 = "liquide vert"
+verre2 = "liquide rouge"
+print(f"verre 1 =",verre1)
+verre1, verre2 = verre2, verre1
+print(f"verre 1 = " ,verre1)

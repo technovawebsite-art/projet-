@@ -1,0 +1,24 @@
+a = int(input("Entrez le nombre 1  "))
+b = int(input("Entrez le nombre 2 "))
+c = input("Quelle sorte : plus, moins, multiplier ou diviser ? ")
+
+
+if c == "plus":
+    resultat = a + b
+    print( resultat)
+
+elif c == "moins":
+    resultat = a - b
+    print(resultat)
+
+elif c == "multiplier":
+    resultat = a * b
+    print( resultat)
+
+elif c == "diviser":
+    resultat = a / b
+    print( resultat)
+    
+
+else:
+    print("inconue")
